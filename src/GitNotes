@@ -1,0 +1,12 @@
+
+Branches:
+
+Project:
+
+1.
+
+
+To Merge To A Branch
+Step1.  Switch to the branch to which you want to merge
+Step2.  Run the command ** git merge BranchName **
+

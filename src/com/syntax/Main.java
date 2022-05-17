@@ -8,7 +8,13 @@ public class Main {
         FactorX.sun = "1";
         FactorX.moon = "2";
         FactorX.planet = "5";
-        FactorX.star = "1001";
+        FactorX.star = "10011";
+
+        // adding features to our sun
+        FeatureSun Xfact = new FeatureSun();
+        Xfact.color = "green";
+        Xfact.radius = "1000000000km";
+        Xfact.heat = "309324934898kj";
 
     }
 }
