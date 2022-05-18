@@ -18,7 +18,7 @@ public class Main {
 
         // adding features to our stars
         FeatureStars FacX = new FeatureStars();
-        FacX.color = green;
+        FacX.color = "green";
         FacX.radius = "789521.378km";
         FacX.size = "999999999m";
 
