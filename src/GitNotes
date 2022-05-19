@@ -6,7 +6,8 @@ Project:
 1.
 
 
-To Merge To A Branch
-Step1.  Switch to the branch to which you want to merge
-Step2.  Run the command ** git merge BranchName **
-
+To Merge A Branch
+------------------
+Step1.  Switch to (main) branch to which you want to merge
+Step2.  Run the command ** git merge BranchName ** --> pushes code to branch
+Step3.  Run the command ** git push ** --> pushes code to main
